@@ -10,6 +10,11 @@
 cybersword1001/cybersword1001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+
+
 //practical no 4
 #include <stdio.h>
 #include <stdlib.h> // Include this for system("cls") or system("clear")
