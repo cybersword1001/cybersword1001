@@ -1,8 +1,11 @@
-<h1 align="center">
+<!-- <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Vicky+aka+💻+CYBERSWORD1001;Cybersecurity+%26+Web+Development+Enthusiast;CSE+Student+%7C+Ethical+Hacker;Open+Source+%7C+Linux+%7C+Bug+Bounty+Explorer" alt="Typing SVG" />
-</h1>
+</h1> -->
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Vicky+aka+%F0%9F%92%BB+CYBERSWORD1001;Cybersecurity+%26+Web+Development+Enthusiast;CSE+Student+%7C+Ethical+Hacker;Open+Source+%7C+Linux+%7C+Bug+Bounty+Explorer" alt="Typing SVG" />
+</p>
 
 
 ---
